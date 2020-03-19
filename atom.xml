@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WYC&#39;s Blog</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wycisme.github.io.git/"/>
+  <updated>2020-03-19T07:10:52.805Z</updated>
+  <id>https://wycisme.github.io.git/</id>
+  
+  <author>
+    <name>文一冲</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="https://wycisme.github.io.git/2020/03/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://wycisme.github.io.git/2020/03/19/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-03-19T04:20:00.000Z</published>
+    <updated>2020-03-19T07:10:52.805Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;大标题&quot;&gt;&lt;a href=&quot;#大标题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="其他" scheme="https://WYCisme.github.io.git/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="生活" scheme="https://WYCisme.github.io.git/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wycisme.github.io.git/2020/03/18/hello-world/"/>
+    <id>https://wycisme.github.io.git/2020/03/18/hello-world/</id>
+    <published>2020-03-18T14:24:39.120Z</published>
+    <updated>2020-03-19T07:09:34.128Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
